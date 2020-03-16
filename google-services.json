@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "412294284671",
+    "firebase_url": "https://uk-chat-app.firebaseio.com",
+    "project_id": "uk-chat-app",
+    "storage_bucket": "uk-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412294284671:android:c79edb19ee68e43c88464a",
+        "android_client_info": {
+          "package_name": "com.developer.mychatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412294284671-dsvm701n41mo4o5e2cche3p0el5q5kg4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA397Su8GLYqdtuRUqN-7S2cG0KBQkhF0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412294284671-dsvm701n41mo4o5e2cche3p0el5q5kg4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

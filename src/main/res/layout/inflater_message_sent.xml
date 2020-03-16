@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="right"
+    android:padding="15sp">
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/right_buble"
+        android:padding="5sp"
+        android:orientation="vertical">
+    <TextView
+        android:id="@+id/text_message_body"
+        android:text="hello, hello!"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:maxWidth="240dp"
+        android:textColor="#000000"
+        android:layout_marginRight="8dp"
+        />
+        <TextView
+            android:id="@+id/time"
+            android:text="8:20 PM"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:maxWidth="240dp"
+            android:textSize="8sp"
+            android:layout_gravity="right"
+            android:textColor="#5E000000"
+            />
+    </LinearLayout>
+    <TextView
+        android:id="@+id/sender_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="10sp"
+        android:textSize="10dp"
+        android:text="user"
+
+        />
+
+
+</LinearLayout>
